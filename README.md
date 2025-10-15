@@ -1,7 +1,7 @@
 ## About me
 
 <h1 align="left">Hi 👋, I'm SeungHeon Lee, a passionate developer who loves challenges.</h1>
-<h4 align="left">안녕하세요. 도전을 좋아하는 열정적인 개발자 이승헌입니다. <br>새로운 시도를 두려워하지 않고 도전을 통해 성장하는 개발자가 되고 싶습니다.</h4>
+<h3 align="left">안녕하세요. 도전을 좋아하는 열정적인 개발자 이승헌입니다. <br>새로운 시도를 두려워하지 않고 도전을 통해 성장하는 개발자가 되고 싶습니다.</h3>
 
 
 - 📫 How to reach me **hun0018@naver.com**
